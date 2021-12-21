@@ -4,3 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimHyungSik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align='right'src='http://mazassumnida.wtf/api/v2/generate_badge?boj=goust2001c'>
